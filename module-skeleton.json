@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-business-workflow-reconciliation-3b42eab6-vue-inertia",
+  "capabilityKey": "liberusoftware/module-liberu-business-workflow-reconciliation",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-module-liberu-business-workflow-reconciliation-3b42eab6-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/accounting/vue/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
